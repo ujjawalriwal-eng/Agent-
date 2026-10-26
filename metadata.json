@@ -1,0 +1,10 @@
+{
+  "name": "Astra AI - Android Voice & Device Agent",
+  "description": "Smart AI Voice & Device Automation Assistant for Android with Hindi & English voice recognition, home button trigger replacement, app launching, auto-scrolling, contact calling, and Android APK export.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
